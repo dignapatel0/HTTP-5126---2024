@@ -2,7 +2,7 @@
 
 ![Database Design & Development](/images/sql.png)
 
-This Repo is for my Database Design & Development - HTTP-5126 Assignment.
+This Repo is for my Database Design & Development - HTTP5126 Assignment.
 
 [Learn SQL basic for Database](https://www.w3schools.com/sql/default.asp)
 
